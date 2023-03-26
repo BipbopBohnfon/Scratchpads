@@ -1,3 +1,0 @@
-/home/bipbop/Programming/RandomFiles/BitsetScratchpad/cmake-build-debug/CMakeFiles/BitsetScratchpad.dir
-/home/bipbop/Programming/RandomFiles/BitsetScratchpad/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/bipbop/Programming/RandomFiles/BitsetScratchpad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
