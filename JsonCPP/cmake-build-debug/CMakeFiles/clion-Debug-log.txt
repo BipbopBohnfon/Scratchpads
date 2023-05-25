@@ -1,8 +1,0 @@
-/home/bipbop/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/bipbop/Programming/Scratchpads/JsonCPP -B /home/bipbop/Programming/Scratchpads/JsonCPP/cmake-build-debug
-CMake Error at CMakeLists.txt:9 (add_subdirectory):
-  add_subdirectory given source "jsoncpp-1.9.5" which is not an existing
-  directory.
-
-
--- Configuring incomplete, errors occurred!
-See also "/home/bipbop/Programming/Scratchpads/JsonCPP/cmake-build-debug/CMakeFiles/CMakeOutput.log".

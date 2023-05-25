@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/bipbop/Programming/Scratchpads/OpenGL_C Select CMakeLists.txt
