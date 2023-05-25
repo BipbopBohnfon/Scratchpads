@@ -1,0 +1,3 @@
+/home/bipbop/Programming/Scratchpads/JsonCPP/cmake-build-debug/CMakeFiles/JsonTest.dir
+/home/bipbop/Programming/Scratchpads/JsonCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bipbop/Programming/Scratchpads/JsonCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

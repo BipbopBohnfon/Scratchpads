@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/JsonTest.dir/main.cpp.o -o bin/JsonTest  -ljsoncpp 

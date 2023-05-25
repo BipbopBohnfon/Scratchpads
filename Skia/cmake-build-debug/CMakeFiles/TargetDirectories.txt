@@ -1,0 +1,3 @@
+/home/bipbop/Programming/Scratchpads/Skia/cmake-build-debug/CMakeFiles/Skia.dir
+/home/bipbop/Programming/Scratchpads/Skia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bipbop/Programming/Scratchpads/Skia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
