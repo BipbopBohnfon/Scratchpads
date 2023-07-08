@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
 
 	parse_command_line_args(argc, argv, &settings);
 
-    parse_notes(DEBUG_STRING_JESU_BASS);
+    parse_notes(DEBUG_STRING_JESU);
     play_tones(392, 392, 285714 * 4);
 
 	close(console_fd);
