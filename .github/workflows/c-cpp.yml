@@ -16,4 +16,4 @@ jobs:
     - name: Build Project
       run: g++ GithubActionTest/actiontest.cpp -std=c++17 -o test
     - name: Run Object File
-      run: ./GithubActionTest/test 
+      run: ./test 
